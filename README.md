@@ -5,4 +5,4 @@ Finish interactive lessons to unleash your programming to the max. When finishin
 
 Help us get 1 million games.
 
-This game is made by the [TOG](Team of games). We make many games and have a to-do list.
+This game is made by the [TOG](https://github.com/Team-of-games). We make many games and have a to-do list.
