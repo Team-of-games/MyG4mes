@@ -1,4 +1,7 @@
-MyG4mes Age Rating System (MARS) is the age rating system for all MyG4mes content. If a game is rated over MARS 7, age confirmation is required to proceed to the game. There are 5 ratings:
+---
+title: MARS | MyG4mes
+---
+**M**yG4mes **A**ge **R**ating **S**ystem (**MARS**) is the age rating system for all MyG4mes content. If a game is rated over MARS 7, age confirmation is required to proceed to the game. There are 5 ratings:
 * MARS 0 (suitable for everyone, green)
 * MARS 7 (not suitable for pre-school children, sky blue)
 * MARS 12 (suitable only for ages 12+, orange)
