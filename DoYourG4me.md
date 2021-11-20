@@ -1,6 +1,6 @@
 ---
 title: DoYourG4me by the TOG, the developers of MyG4mes
-theme: hacker
+theme: jekyll-theme-hacker
 ---
 DoYourG4me is a weekly challenge where you try to develop a game using MyG4mes.
 
