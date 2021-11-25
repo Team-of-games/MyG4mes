@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: 'MyG4mes feature request'
-labels: 'enchancement'
+labels: 'enhancement'
 assignees: ''
 
 ---
