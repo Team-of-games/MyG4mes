@@ -1,4 +1,4 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
   - name: Meta
     url: https://github.com/The-TOG/meta
@@ -7,5 +7,5 @@ contact_links:
     url: https://github.com/The-TOG/MyG4mes/wiki
     about: Documentation and Q&A for MyG4mes
   - name: Email Tyler
-    url: https://github.com/The-TOG/MyG4mes/wiki
+    url: mailto:tylermageeshields@gmail.com
     about: Use to appeal a block, report bugs that only I could fix, etc.
