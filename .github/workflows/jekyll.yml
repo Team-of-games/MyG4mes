@@ -2,9 +2,9 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [ Game-branch ]
+    branches: [ Website-branch ]
   pull_request:
-    branches: [ Game-branch ]
+    branches: [ Website-branch ]
 
 jobs:
   build:
