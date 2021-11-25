@@ -3,3 +3,9 @@ contact_links:
   - name: Meta
     url: https://github.com/The-TOG/meta
     about: Discuss the TOG in general
+  - name: MyG4mes Wiki
+    url: https://github.com/The-TOG/MyG4mes/wiki
+    about: Documentation and Q&A for MyG4mes
+  - name: Email Tyler
+    url: https://github.com/The-TOG/MyG4mes/wiki
+    about: Use to appeal a block, report bugs that only I could fix, etc.
